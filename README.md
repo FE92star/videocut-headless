@@ -1,4 +1,4 @@
-# Jianying Headless
+# videocut Headless
 
 面向剪映专业版 macOS 的本地自动化工具。通过结构化剪辑计划生成可编辑草稿，
 在独立副本中修改多轨工程，并调用本机剪映引擎导出 MP4。
